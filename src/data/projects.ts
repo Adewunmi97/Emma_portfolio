@@ -13,7 +13,7 @@ export const projects: Project[] = [
     id: '2',
     title: 'Product Packaging Design',
     description: "Kirbyland offers premium buttered popcorn made with whole grains, providing a delightful sweet and crispy taste. It's a 100% gluten-free snack, perfect for movie nights, gatherings, or on-the-go enjoyment.",
-    image: '/kirbyland.png',
+    image: '/kirby.png',
     tags: ['Product Branding', 'Packaging Design', 'Graphic Design'],
     link: 'https://www.behance.net/gallery/200513017/KIRBYLAND-PACKAGNG-DESIGN',
   },
