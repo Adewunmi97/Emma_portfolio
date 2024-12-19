@@ -30,7 +30,7 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="/src/images/emma.jpg"
+              src="/emma.jpg"
               alt="Emmanuel"
               className="rounded-lg shadow-lg"
             />
@@ -38,8 +38,8 @@ export function About() {
           <div>
             <h2 className="text-3xl font-bold mb-6 text-gray-900 dark:text-white">About Me</h2>
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-            Emmanuel Adebisi is a creative brand designer and UI/UX professional with over 7 years of experience in designing effective branding and marketing materials. He is skilled in collaborating with cross-functional teams, both onsite and remotely. As a freelancer, he has worked with 10 different brands, creating logos, color schemes, brand guidelines, flyers, banners, and mockups for visual representation, ensuring consistency across all marketing and branding materials.
-            In addition to his branding expertise, Emmanuel specializes in UI/UX design, focusing on user needs to create visually appealing and functional designs. He is experienced in crafting design solutions from low-fidelity wireframes to high-fidelity prototypes, ensuring intuitive and engaging user experiences. Emmanuel looks forward to contributing to business growth by leveraging his skills in both branding and user-centric design.
+            I'm a creative brand designer and a UI/UX professional with over 7 years of experience in designing effective branding and marketing materials. I'm skilled in collaborating with cross-functional teams, both onsite and remotely. As a freelancer, I have worked with 10 different brands, creating logos, color schemes, brand guidelines, flyers, banners, and mockups for visual representation, ensuring consistency across all marketing and branding materials.
+            In addition to my branding expertise, I specialize in UI/UX design, focusing on user needs to create visually appealing and functional designs. I am experienced in crafting design solutions from low-fidelity wireframes to high-fidelity prototypes, ensuring intuitive and engaging user experiences. I look forward to contributing to business growth by leveraging my skills in both branding and user-centric design.
             </p>
             <div className="grid grid-cols-2 gap-4">
               {skills.map((skill) => (
