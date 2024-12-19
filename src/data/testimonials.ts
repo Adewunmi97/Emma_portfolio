@@ -3,18 +3,18 @@ import type { Testimonial } from '../types';
 export const testimonials: Testimonial[] = [
   {
     id: '1',
-    name: 'Sarah Johnson',
+    name: 'Optimus',
     role: 'Product Manager',
     company: 'TechCorp',
     content: "Emmanuel's attention to detail and user-centric approach transformed our product. The results speak for themselves - our user satisfaction scores increased by 40%.",
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
+    image: '/optimus.jpg',
   },
   {
     id: '2',
-    name: 'Michael Ali',
+    name: 'Adewunmi',
     role: 'CEO',
     company: 'StartupX',
     content: 'Working with Emmanuel was a game-changer for our startup. He helped us create a product that our users love and investors believe in.',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e',
+    image: '/adewunmi.jpg',
   },
 ];
